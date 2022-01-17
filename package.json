@@ -4,7 +4,8 @@
   "description": "A Tool to Shorten long Url",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +18,10 @@
   },
   "homepage": "https://github.com/Placido81/my-shortUrl-tool#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "mongoose": "^6.1.7"
+    "mongoose": "^6.1.7",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
