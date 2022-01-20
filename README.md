@@ -1,7 +1,7 @@
 # my-shortUrl-tool
 
 # To View The Url Shortner 
-Git Clone to computer. (Then NPM Install to install all Dependencies sp app will run)
+Git Clone to computer. (Then NPM Install to install all Dependencies  app will run)
 Npm Start ( To start Server)
 Go To http://localhost:3000/ (To View)
 
